@@ -21,4 +21,4 @@ pip install pygame
 
 **Acknowledgements**
 
-This game was created using Pygame and Python by [insert your name here]. Feel free to modify the code and add your own features to make it even more fun to play!
+This game was created using Pygame and Python by Gaurav Jha, Adarsh, Dinesh. Feel free to modify the code and add your own features to make it even more fun to play!
