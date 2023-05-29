@@ -16,9 +16,9 @@ The player's score is displayed in the upper left corner of the screen. Each tim
 
 This game requires the Pygame library to be installed in order to run. If you don't already have Pygame installed, you can install it using pip:
 pip install pygame
+the .exe file can be run without installing anything though, which can be made using the command pyinstaller --onefile --noconsole Snake.py (windows) once you get into the directpry where Snake.py exists.
+
+Thanks!
 
 
 
-**Acknowledgements**
-
-This game was created using Pygame and Python by Gaurav Jha, Adarsh, Dinesh. Feel free to modify the code and add your own features to make it even more fun to play!
